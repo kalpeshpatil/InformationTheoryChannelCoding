@@ -1,2 +1,2 @@
-# InformationTheoryChannelCoding
-Demonstrating Gaussian and QPSK andom codebook channel coding with GNURadio
+# Information Theory Channel Coding
+Demonstrating Gaussian and QPSK random codebook channel coding with GNURadio
