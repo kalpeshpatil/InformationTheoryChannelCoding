@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/gaussian_codebook/gaussian_codebookConfig.cmake
+/usr/local/include/gaussian_codebook/api.h
+/usr/local/lib/python2.7/dist-packages/gaussian_codebook/__init__.py
+/usr/local/lib/python2.7/dist-packages/gaussian_codebook/gaussian_codebook_ff.py
+/usr/local/lib/python2.7/dist-packages/gaussian_codebook/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/gaussian_codebook/gaussian_codebook_ff.pyc
+/usr/local/lib/python2.7/dist-packages/gaussian_codebook/__init__.pyo
+/usr/local/lib/python2.7/dist-packages/gaussian_codebook/gaussian_codebook_ff.pyo
+/usr/local/share/gnuradio/grc/blocks/gaussian_codebook_gaussian_codebook_ff.xml

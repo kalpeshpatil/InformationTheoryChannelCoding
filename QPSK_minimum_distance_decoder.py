@@ -18,7 +18,7 @@ ber_list = []
 codebook_book = {}
 for P in P_list:
 	qpsk = np.array([1+1j,1-1j,-1+1j,-1-1j])
-	codebook_book[P] = np.sqrt(P)*np.random.choice(qpsk,[M,N])
+	codebook_book[P] = np.sqrt(P/2)*np.random.choice(qpsk,[M,N])
 
 
 
@@ -26,10 +26,10 @@ for P in P_list:
 	n_iter = 1
 	ber_sub_list = []
 	for j in range(n_iter):
-		sigma = 1
+		sigma = 1.0
 		codebook = codebook_book[P]
-		noise_real = np.random.normal(0,sigma, [n_input,N])
-		noise_imag =  np.random.normal(0,sigma, [n_input,N])
+		noise_real = np.random.normal(0,sigma/np.sqrt(2), [n_input,N])
+		noise_imag =  np.random.normal(0,sigma/np.sqrt(2), [n_input,N])
 		noise_mat = noise_real + noise_imag*(1j)
 
 		x_mat = []
@@ -52,7 +52,6 @@ for P in P_list:
 			w_hat_list.append(min_id)
 
 		w_hat_list = np.array(w_hat_list)
-
 
 		ber_sum = 0
 		for i in range(len(w_list)):

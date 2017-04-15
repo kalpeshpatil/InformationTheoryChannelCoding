@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/qpsk_codebook/qpsk_codebookConfig.cmake
+/usr/local/include/qpsk_codebook/api.h
+/usr/local/lib/python2.7/dist-packages/qpsk_codebook/__init__.py
+/usr/local/lib/python2.7/dist-packages/qpsk_codebook/qpsk_codebook_ff.py
+/usr/local/lib/python2.7/dist-packages/qpsk_codebook/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/qpsk_codebook/qpsk_codebook_ff.pyc
+/usr/local/lib/python2.7/dist-packages/qpsk_codebook/__init__.pyo
+/usr/local/lib/python2.7/dist-packages/qpsk_codebook/qpsk_codebook_ff.pyo
+/usr/local/share/gnuradio/grc/blocks/qpsk_codebook_qpsk_codebook_ff.xml
