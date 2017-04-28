@@ -6,7 +6,7 @@ import numpy as np
 import pprint
 import pickle
 
-M = 8
+M = 20
 N = 8
 n_input = 1000
 # w_list = np.random.random_integers(0,M-1,n_input)
@@ -23,7 +23,7 @@ for P in P_list:
 
 
 for P in P_list:
-	n_iter = 1
+	n_iter = 80
 	ber_sub_list = []
 	for j in range(n_iter):
 		sigma = 1.0
