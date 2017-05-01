@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio QPSK_CODEBOOK_20 C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the QPSK_CODEBOOK_20 GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+

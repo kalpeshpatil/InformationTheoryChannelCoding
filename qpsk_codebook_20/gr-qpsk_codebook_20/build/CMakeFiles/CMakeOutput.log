@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/3.5.1/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/3.5.1/CompilerIdCXX/a.out"
 
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/3.5.1/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/3.5.1/CompilerIdC/a.out"
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ee471/fast"
-/usr/bin/make -f CMakeFiles/cmTC_ee471.dir/build.make CMakeFiles/cmTC_ee471.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ee471.dir/testCXXCompiler.cxx.o
-/usr/bin/c++      -o CMakeFiles/cmTC_ee471.dir/testCXXCompiler.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_ee471
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ee471.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_ee471.dir/testCXXCompiler.cxx.o  -o cmTC_ee471 -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_c987f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c987f.dir/build.make CMakeFiles/cmTC_c987f.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c987f.dir/testCXXCompiler.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_c987f.dir/testCXXCompiler.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_c987f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c987f.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_c987f.dir/testCXXCompiler.cxx.o  -o cmTC_c987f -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_90c3f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_90c3f.dir/build.make CMakeFiles/cmTC_90c3f.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++      -o CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_90c3f
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_90c3f.dir/link.txt --verbose=1
-/usr/bin/c++       -v CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_90c3f -rdynamic  
+Run Build Command:"/usr/bin/make" "cmTC_a38bd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a38bd.dir/build.make CMakeFiles/cmTC_a38bd.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++      -o CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_a38bd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a38bd.dir/link.txt --verbose=1
+/usr/bin/c++       -v CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_a38bd -rdynamic  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_90c3f' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccRutJKb.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_90c3f /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a38bd' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccKnZyED.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_a38bd /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_90c3f/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_90c3f.dir/build.make CMakeFiles/cmTC_90c3f.dir/build]
-  ignore line: [make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_90c3f]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_90c3f.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_90c3f -rdynamic  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_a38bd/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_a38bd.dir/build.make CMakeFiles/cmTC_a38bd.dir/build]
+  ignore line: [make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_a38bd]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a38bd.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_a38bd -rdynamic  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -85,13 +85,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_90c3f' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccRutJKb.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_90c3f /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a38bd' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccKnZyED.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_a38bd /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccRutJKb.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccKnZyED.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -109,7 +109,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_90c3f] ==> ignore
+    arg [cmTC_a38bd] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -121,7 +121,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_90c3f.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_a38bd.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -151,17 +151,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_02a10/fast"
-/usr/bin/make -f CMakeFiles/cmTC_02a10.dir/build.make CMakeFiles/cmTC_02a10.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_02a10.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_02a10.dir/feature_tests.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_02a10
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_02a10.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_02a10.dir/feature_tests.cxx.o  -o cmTC_02a10 -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_8954b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8954b.dir/build.make CMakeFiles/cmTC_8954b.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8954b.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_8954b.dir/feature_tests.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_8954b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8954b.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_8954b.dir/feature_tests.cxx.o  -o cmTC_8954b -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -224,17 +224,17 @@ make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryCh
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dd2a9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dd2a9.dir/build.make CMakeFiles/cmTC_dd2a9.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_dd2a9.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_dd2a9.dir/feature_tests.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_dd2a9
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd2a9.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_dd2a9.dir/feature_tests.cxx.o  -o cmTC_dd2a9 -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_4ac25/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4ac25.dir/build.make CMakeFiles/cmTC_4ac25.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4ac25.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_4ac25.dir/feature_tests.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_4ac25
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4ac25.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_4ac25.dir/feature_tests.cxx.o  -o cmTC_4ac25 -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -297,17 +297,17 @@ make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryCh
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7f91c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7f91c.dir/build.make CMakeFiles/cmTC_7f91c.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_7f91c.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_7f91c.dir/feature_tests.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_7f91c
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f91c.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_7f91c.dir/feature_tests.cxx.o  -o cmTC_7f91c -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_b2862/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b2862.dir/build.make CMakeFiles/cmTC_b2862.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b2862.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_b2862.dir/feature_tests.cxx.o -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_b2862
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b2862.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_b2862.dir/feature_tests.cxx.o  -o cmTC_b2862 -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -368,30 +368,30 @@ make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryCh
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ba23c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_ba23c.dir/build.make CMakeFiles/cmTC_ba23c.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_ba23c.dir/testCCompiler.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_ba23c.dir/testCCompiler.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_ba23c
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba23c.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_ba23c.dir/testCCompiler.c.o  -o cmTC_ba23c -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_29346/fast"
+/usr/bin/make -f CMakeFiles/cmTC_29346.dir/build.make CMakeFiles/cmTC_29346.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_29346.dir/testCCompiler.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_29346.dir/testCCompiler.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_29346
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_29346.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_29346.dir/testCCompiler.c.o  -o cmTC_29346 -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_79948/fast"
-/usr/bin/make -f CMakeFiles/cmTC_79948.dir/build.make CMakeFiles/cmTC_79948.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_79948
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_79948.dir/link.txt --verbose=1
-/usr/bin/cc      -v CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o  -o cmTC_79948 -rdynamic  
+Run Build Command:"/usr/bin/make" "cmTC_3009a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3009a.dir/build.make CMakeFiles/cmTC_3009a.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_3009a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3009a.dir/link.txt --verbose=1
+/usr/bin/cc      -v CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o  -o cmTC_3009a -rdynamic  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -401,23 +401,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_79948' '-rdynamic' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccU0VJVy.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_79948 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3009a' '-rdynamic' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccbbtm85.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_3009a /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_79948/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_79948.dir/build.make CMakeFiles/cmTC_79948.dir/build]
-  ignore line: [make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_79948]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_79948.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o  -o cmTC_79948 -rdynamic  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_3009a/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_3009a.dir/build.make CMakeFiles/cmTC_3009a.dir/build]
+  ignore line: [make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_3009a]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3009a.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o  -o cmTC_3009a -rdynamic  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -427,13 +427,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_79948' '-rdynamic' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccU0VJVy.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_79948 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3009a' '-rdynamic' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccbbtm85.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_3009a /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccU0VJVy.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccbbtm85.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -451,7 +451,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_79948] ==> ignore
+    arg [cmTC_3009a] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -463,7 +463,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_79948.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_3009a.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -495,17 +495,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0922d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_0922d.dir/build.make CMakeFiles/cmTC_0922d.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_0922d.dir/feature_tests.c.o
-/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_0922d.dir/feature_tests.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_0922d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0922d.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_0922d.dir/feature_tests.c.o  -o cmTC_0922d -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ce0c7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ce0c7.dir/build.make CMakeFiles/cmTC_ce0c7.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ce0c7.dir/feature_tests.c.o
+/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_ce0c7.dir/feature_tests.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_ce0c7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce0c7.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_ce0c7.dir/feature_tests.c.o  -o cmTC_ce0c7 -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -515,17 +515,17 @@ make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryCh
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_3134d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_3134d.dir/build.make CMakeFiles/cmTC_3134d.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_3134d.dir/feature_tests.c.o
-/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_3134d.dir/feature_tests.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_3134d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3134d.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_3134d.dir/feature_tests.c.o  -o cmTC_3134d -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ef53a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ef53a.dir/build.make CMakeFiles/cmTC_ef53a.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ef53a.dir/feature_tests.c.o
+/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_ef53a.dir/feature_tests.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_ef53a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ef53a.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_ef53a.dir/feature_tests.c.o  -o cmTC_ef53a -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -535,17 +535,17 @@ make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryCh
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp
+Change Dir: /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_2d620/fast"
-/usr/bin/make -f CMakeFiles/cmTC_2d620.dir/build.make CMakeFiles/cmTC_2d620.dir/build
-make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_2d620.dir/feature_tests.c.o
-/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_2d620.dir/feature_tests.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_2d620
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2d620.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_2d620.dir/feature_tests.c.o  -o cmTC_2d620 -rdynamic 
-make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/gaussian_codebook/gr-gaussian_codebook/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_3e31f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3e31f.dir/build.make CMakeFiles/cmTC_3e31f.dir/build
+make[1]: Entering directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3e31f.dir/feature_tests.c.o
+/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_3e31f.dir/feature_tests.c.o   -c /home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_3e31f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3e31f.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_3e31f.dir/feature_tests.c.o  -o cmTC_3e31f -rdynamic 
+make[1]: Leaving directory '/home/kalpesh/sem8/ee708/project/InformationTheoryChannelCoding/qpsk_codebook_20/gr-qpsk_codebook_20/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes

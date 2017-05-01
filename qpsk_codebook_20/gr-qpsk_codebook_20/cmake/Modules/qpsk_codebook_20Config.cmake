@@ -1,0 +1,30 @@
+INCLUDE(FindPkgConfig)
+PKG_CHECK_MODULES(PC_QPSK_CODEBOOK_20 qpsk_codebook_20)
+
+FIND_PATH(
+    QPSK_CODEBOOK_20_INCLUDE_DIRS
+    NAMES qpsk_codebook_20/api.h
+    HINTS $ENV{QPSK_CODEBOOK_20_DIR}/include
+        ${PC_QPSK_CODEBOOK_20_INCLUDEDIR}
+    PATHS ${CMAKE_INSTALL_PREFIX}/include
+          /usr/local/include
+          /usr/include
+)
+
+FIND_LIBRARY(
+    QPSK_CODEBOOK_20_LIBRARIES
+    NAMES gnuradio-qpsk_codebook_20
+    HINTS $ENV{QPSK_CODEBOOK_20_DIR}/lib
+        ${PC_QPSK_CODEBOOK_20_LIBDIR}
+    PATHS ${CMAKE_INSTALL_PREFIX}/lib
+          ${CMAKE_INSTALL_PREFIX}/lib64
+          /usr/local/lib
+          /usr/local/lib64
+          /usr/lib
+          /usr/lib64
+)
+
+INCLUDE(FindPackageHandleStandardArgs)
+FIND_PACKAGE_HANDLE_STANDARD_ARGS(QPSK_CODEBOOK_20 DEFAULT_MSG QPSK_CODEBOOK_20_LIBRARIES QPSK_CODEBOOK_20_INCLUDE_DIRS)
+MARK_AS_ADVANCED(QPSK_CODEBOOK_20_LIBRARIES QPSK_CODEBOOK_20_INCLUDE_DIRS)
+
